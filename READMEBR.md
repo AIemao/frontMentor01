@@ -21,7 +21,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Captura de tela
 
-![Qr Code] <img href="https://github.com/AIemao/frontMentor01/blob/main/images/FRONT.PNG" alt style="max-width: 100%;">
+<img src="/images/FRONT.PNG" alt style="max-width: 100%">
 
 
 ### Links
