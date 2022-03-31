@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Qr Code] <img src="/AIemao/front_Mentor01-qrcode/images/FRONT.jpg" alt style="max-width: 100%">
+![Qr Code] <img href="https://github.com/AIemao/frontMentor01/blob/main/images/FRONT.PNG" alt style="max-width: 100%">
 
 
 ### Links
