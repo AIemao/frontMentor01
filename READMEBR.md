@@ -13,7 +13,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
   - [Desenvolvimento contínuo](#desenvolvimento contínuo)
   - [Recursos úteis](#useful-resources)
 - [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
+
 
 
 

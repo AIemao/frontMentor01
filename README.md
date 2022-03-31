@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<img src="/AIemao/front_Mentor01-qrcode/images/FRONT.jpg" alt style="max-width: 100%">
+![Qr Code] <img src="/AIemao/front_Mentor01-qrcode/images/FRONT.jpg" alt style="max-width: 100%">
 
 
 ### Links
